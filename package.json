@@ -1,0 +1,25 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "A tool for reading files and parsing them into json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersj5-cbe/file-reader.git"
+  },
+  "keywords": [
+    "File",
+    "json",
+    "reader",
+    "options"
+  ],
+  "author": "John E. Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersj5-cbe/file-reader/issues"
+  },
+  "homepage": "https://github.com/andersj5-cbe/file-reader#readme"
+}
